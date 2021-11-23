@@ -13,7 +13,7 @@ I like to do things that are related to the IT field.
 <img align="right" alt="GIF" src="https://media3.giphy.com/media/L8K62iTDkzGX6/giphy.gif?cid=790b7611ee43deff7d51e8d7c8941592a0f4b8f1d0465615&rid=giphy.gif&ct=g" width="408" height="318" />
   
 
-**Talking about Personal Stuffs:**
+### Talking about Personal Stuffs:
 
 - 👨🏻‍💻 I am currently working for an innovative Bulgarian company that deals with telecommunications solutions - [Callflow](https://callflowlab.com/);
 - 🚀 I’m currently learning:
@@ -28,12 +28,12 @@ I like to do things that are related to the IT field.
 
 </br>
 
-📊 **This Week I Spent My Time On:**
+### 📊 This Week I Spent My Time On:
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
 
-📈 **My GitHub Stats:**
+### 📈 My GitHub Stats:
 
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AngelGrigorov&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
