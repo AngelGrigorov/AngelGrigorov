@@ -21,7 +21,7 @@ I like to do things that are related to the IT field.
     - [Algorithms](https://softuni.bg/trainings/3637/algorithms-fundamentals-with-c-sharp-december-2021) on [Softuni](https://softuni.bg/);
     - [UX & UI Design](https://creative.softuni.bg/modules/40/ux-and-ui-design-advanced/39) on [Softuni Creative](https://creative.softuni.bg/);
     - [Golang](https://www.udemy.com/course/go-the-complete-developers-guide/) on [Udemy](https://www.udemy.com/);
-- :books: I’m currently reading [The Intelligent Investor](https://www.amazon.com/Intelligent-Investor-Definitive-Investing-Essentials/dp/0060555661)
+- :books: I’m currently reading [The Intelligent Investor](https://www.amazon.com/Intelligent-Investor-Definitive-Investing-Essentials/dp/0060555661);
 - :money_with_wings: I have an interest in cryptocurrencies and blockchain technology in general;
 - 📫 How to reach me: agrigorov@callflowlab.com;
 
@@ -30,9 +30,6 @@ I like to do things that are related to the IT field.
 
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
 <!--END_SECTION:waka-->
 
 
