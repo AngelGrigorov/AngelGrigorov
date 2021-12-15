@@ -19,7 +19,6 @@ I like to do things that are related to the IT field.
 - :computer: I am currently participating in [Advent Of Code 2021](https://adventofcode.com/) event. Stay tuned to see my solutions!
 - 🚀 I'm currently learning:
     - [Master's degree in Software Technologies](https://ecatalog.nbu.bg/default.asp?V_Year=2021&PageShow=programpresent&P_Menu=generalinfo&Fac_ID=4&M_PHD=0&P_ID=997&TabIndex=1&l=0) in [New Bulgarian University](https://www.nbu.bg/);
-    - [Algorithms](https://softuni.bg/trainings/3637/algorithms-fundamentals-with-c-sharp-december-2021) on [Softuni](https://softuni.bg/);
     - [UX & UI Design](https://creative.softuni.bg/modules/40/ux-and-ui-design-advanced/39) on [Softuni Creative](https://creative.softuni.bg/);
     - [Golang](https://www.udemy.com/course/go-the-complete-developers-guide/) on [Udemy](https://www.udemy.com/);
 - :books: I’m currently reading [The Intelligent Investor](https://www.amazon.com/Intelligent-Investor-Definitive-Investing-Essentials/dp/0060555661);
