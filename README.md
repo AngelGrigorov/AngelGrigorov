@@ -31,9 +31,7 @@ I like to do things that are related to the IT field.
 ### 📊 This Week I Spent My Time On:
 <!--START_SECTION:waka-->
 ```text
-JavaScript   22 mins         █████████████▒░░░░░░░░░░░   52.71 % 
-HTML         18 mins         ███████████░░░░░░░░░░░░░░   43.47 % 
-Markdown     1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
+
 ```
 <!--END_SECTION:waka-->
 
