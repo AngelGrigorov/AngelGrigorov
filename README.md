@@ -10,7 +10,7 @@
 I am a full-stack software developer. I love programming, reading books, learning new skills and watching movies.
 I like to do things that are related to the IT field.
 
-<img align="right" alt="GIF" src="https://media3.giphy.com/media/L8K62iTDkzGX6/giphy.gif?cid=790b7611ee43deff7d51e8d7c8941592a0f4b8f1d0465615&rid=giphy.gif&ct=g" width="408" height="318" />
+<img align="right" alt="GIF" src="https://camo.githubusercontent.com/bad73067be0171aab9e958e844f2fffe8685814c10a3245aa363d31f9b649922/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f7167515567674143335066763638377150432f67697068792e676966" width="408" height="318" />
   
 
 ### Talking about Personal Stuffs:
