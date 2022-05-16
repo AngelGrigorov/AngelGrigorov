@@ -32,7 +32,8 @@ I like to do things that are related to the IT field.
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+PHP          1 hr 9 mins     █████████████▒░░░░░░░░░░░   52.82 %
+Other        20 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.35 %
 ```
 
 <!--END_SECTION:waka-->
