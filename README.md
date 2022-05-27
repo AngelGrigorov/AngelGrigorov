@@ -32,8 +32,7 @@ I like to do things that are related to the IT field.
 <!--START_SECTION:waka-->
 
 ```text
-Java    23 mins         ██████████████████████▓░░   91.18 %
-Other   2 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.32 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
