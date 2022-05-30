@@ -32,7 +32,9 @@ I like to do things that are related to the IT field.
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+JSON       8 mins          █████████▒░░░░░░░░░░░░░░░   36.99 %
+C#         7 mins          ████████░░░░░░░░░░░░░░░░░   32.05 %
+Other      2 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   11.13 %
 ```
 
 <!--END_SECTION:waka-->
