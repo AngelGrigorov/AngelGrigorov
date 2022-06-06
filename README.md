@@ -32,10 +32,11 @@ I like to do things that are related to the IT field.
 <!--START_SECTION:waka-->
 
 ```text
-C#           2 hrs 37 mins   ███████████████░░░░░░░░░░   60.02 %
-CSHTML       1 hr 2 mins     ██████░░░░░░░░░░░░░░░░░░░   23.88 %
-JSON         32 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.42 %
-Other        3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.44 %
+C#           2 hrs 30 mins   ███████████████▓░░░░░░░░░   62.58 %
+CSHTML       1 hr 2 mins     ██████▒░░░░░░░░░░░░░░░░░░   25.80 %
+JSON         24 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.18 %
+XML          1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 %
+Other        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
 ```
 
 <!--END_SECTION:waka-->
