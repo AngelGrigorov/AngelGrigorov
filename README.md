@@ -32,8 +32,7 @@ I like to do things that are related to the IT field.
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   4 mins          ████████████████████████▒   97.50 %
-JSON         0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.50 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
