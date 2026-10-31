@@ -40,11 +40,11 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://www.youtube.com/watch?v=OwcJl4Guwi0"><img src="https://img.youtube.com/vi/OwcJl4Guwi0/hqdefault.jpg" width="100%" /></a>
-      <br /><b>IT Expert: Angel Grigorov, Software Developer</b><br />Video interview about life as a developer at Callflow.
+      <a href="https://www.youtube.com/watch?v=OwcJl4Guwi0"><img src="https://img.youtube.com/vi/OwcJl4Guwi0/maxresdefault.jpg" width="100%" /></a>
+      <br /><a href="https://www.youtube.com/watch?v=OwcJl4Guwi0"><b>IT Expert: Angel Grigorov, Software Developer</b></a><br />Video interview about life as a developer at Callflow.
     </td>
     <td width="50%" valign="top">
-      <a href="https://softuni.bg/blog/angel-grigorov-code-to-success-may-2020"><img src="assets/softuni-interview.png" width="100%" /></a>
+      <a href="https://softuni.bg/blog/angel-grigorov-code-to-success-may-2020"><img src="assets/softuni-interview.png?v=2" width="100%" /></a>
       <br /><a href="https://softuni.bg/blog/angel-grigorov-code-to-success-may-2020"><b>“Regular reading and lots of practice”</b></a><br />SoftUni's <i>Code to Success</i> interview with one of their top graduates, May 2020.
     </td>
   </tr>
