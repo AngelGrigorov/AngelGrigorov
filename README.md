@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b2a,100:e0a526&height=200&section=header&text=Angel%20Grigorov&fontColor=ffffff&fontSize=52&fontAlignY=35&desc=Full stack%20Engeneerr%20%40%20Omnilinx&descAlignY=55&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b2a,100:e0a526&height=200&section=header&text=Angel%20Grigorov&fontColor=ffffff&fontSize=52&fontAlignY=35&desc=Full-Stack%20Engineer%20%40%20Omnilinx&descAlignY=55&animation=fadeIn" width="100%" />
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=E0A526&center=true&vCenter=true&width=600&lines=Vue.js+%C2%B7+PHP+%C2%B7+JavaScript+%C2%B7+Java;7%2B+years+shipping+web+chat+%26+telephony;Building+my+own+J.A.R.V.I.S.+at+home;Local+AI+%C2%B7+smart+home+%C2%B7+homelab;Mapping+10%2C000+years+of+history" alt="Typing SVG" /></a>
